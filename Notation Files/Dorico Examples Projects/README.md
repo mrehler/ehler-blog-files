@@ -2,7 +2,21 @@
 
 This folder (should be) the meat of what's on here.
 
-In addition to actual .dorico files, there's PDFs of just about everything in here.
+In addition to actual .dorico files, there's PDFs of just about everything in here, at least for the instruments I have/had in my bands at the time I originally made the proejct. But the Dorico file is in here for you to fill in any yourself!
+
+I make no guarantees of compatibility with these Dorico files. If you're using an old version of Dorico, assume they'll break at any time, because I'm liable to resave them under a new version. I have no idea how Dorico handles compatbility going backwards, only going forwards.
+
+## One-off Lessons
+
+### Roadmap Review
+
+[Original Article][roadmaparticle]
+
+### Transposition Lesson
+
+[Original Article][transpositionlessonarticle]
+
+## Remington and Chord Sheets
 
 ## Rhythm Assessments
 
@@ -14,25 +28,32 @@ Names aren't completely consistent. Still haven't settled on a scheme I love.
 
 ## Scale Sheets
 
-At present only contians chromatic scale sheets. WIll update later.
+- Perhaps missing instruments
+- Prefer to keep the flat/sharp switch to happen between G♭ and B for everyone – made an exception starting this year for saxophones (to switch between A♭ and C♯). 
+    + The double-octave scales reflect that older switch. Will be updated some time before the spring semester of 2024. 
+    + The old versions of these are in the "./(Alternate Sax Sheets)" folder.
+
 
 ### Chromatic Scale Sheets
 
 [Original Article][chromaticarticle]
 
 
-## Roadmap Review
 
-[Original Article][roadmaparticle]
 
 
 ## Todo
 
 - [ ] Put the rest of my scale sheets into this repo
+    + [ ] Add the trumpet double third scale -  [Major Thirds Scales](hook://file/Lw8sdbA03?p=RG9yaWNvIEV4YW1wbGVzIFByb2plY3RzL1NjYWxlIFNoZWV0cw==&n=Major%20Thirds%20Scales)
 - [ ] Do the [things](omnifocus:///task/m8Tb_8rNQNv) stated for the rhythm assessments already
 - [ ] Add in (along with writing an article) some of the other sheets I've made for 6th grade/scales. 
+- [ ] Cleanup
+    + Adjusting layout indent
+        * [ ] Adjust tenor sax major scale sheet - [tenor file](hook://file/Lw8ud5Pij?p=U2NhbGUgU2hlZXRzL01ham9yIFNjYWxlcw==&n=07%20%2D%20Tenor%20Saxophone%20%2D%20Scale%20Sheet%2Epdf)
+        * [ ] Adjust the keyed pages of the alto and tenor thirds scales
 
-
+[roadmaparticle]: 
+[transpositionlessonarticle]: 
 [rhythmassessmentarticle]: 
 [chromaticarticle]:: 
-[roadmaparticle]: 
