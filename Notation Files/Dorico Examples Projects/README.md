@@ -32,6 +32,15 @@ Names aren't completely consistent. Still haven't settled on a scheme I love.
 - Prefer to keep the flat/sharp switch to happen between G♭ and B for everyone – made an exception starting this year for saxophones (to switch between A♭ and C♯). 
     + The double-octave scales reflect that older switch. Will be updated some time before the spring semester of 2024. 
     + The old versions of these are in the "./(Alternate Sax Sheets)" folder.
+- Each of the PDFs is two pages – one with the appropriate key signature listed, and one page with no key signatures, but with every accidental listed.
+    + The second page is labelled keyless. *Obviously* thhey have a key, but I can't come up with a better shorthand name for them. If you have a suggestion for that, legitimately let me know.
+    + I have each page as their own PDF file. I'm not planning on posting them here, but if others would find it valuable (instead of just deleting one of the two pages in a PDF app or sending only one of the two pages to the printer), I can.
+
+### Major Scales
+
+- I'm considering changing the flute sheet to only show the top octave for G and G♭ Major Scales.
+    + I'm also considering only doing that for the G scale
+    + I would put this current sheet in the alternate folder if I were to do that
 
 
 ### Chromatic Scale Sheets
