@@ -10,13 +10,15 @@ I make no guarantees of compatibility with these Dorico files. If you're using a
 
 ### Roadmap Review
 
-[Original Article][roadmaparticle]
+Has not received its own article. Based on a popular image that had been shared around various music pages I'd seen, and adapted for a quick review of various roadmap features. It's a good demonstration of a text-heavy reference sheet that is 
 
 ### Transposition Lesson
 
 [Original Article][transpositionlessonarticle]
 
 ## Remington and Chord Sheets
+
+[Original Article][remingtonchordarticle]
 
 ## Rhythm Assessments
 
@@ -62,7 +64,8 @@ Names aren't completely consistent. Still haven't settled on a scheme I love.
         * [ ] Adjust tenor sax major scale sheet - [tenor file](hook://file/Lw8ud5Pij?p=U2NhbGUgU2hlZXRzL01ham9yIFNjYWxlcw==&n=07%20%2D%20Tenor%20Saxophone%20%2D%20Scale%20Sheet%2Epdf)
         * [ ] Adjust the keyed pages of the alto and tenor thirds scales
 
-[roadmaparticle]: 
-[transpositionlessonarticle]: 
-[rhythmassessmentarticle]: 
-[chromaticarticle]:: 
+
+[transpositionlessonarticle]: https://mrehler.com/2021/07/30/dorico-transposition-and-ipad/
+[rhythmassessmentarticle]: https://mrehler.com/2021/07/13/dorico-rhythm-assessments/
+[chromaticarticle]: https://mrehler.com/2021/07/20/chromatic-scales-sheets-in-dorico/
+[remingtonchordarticle]: https://mrehler.com/2021/08/11/remingtons-and-chords-in-dorico/
