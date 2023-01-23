@@ -26,7 +26,9 @@ Has not received its own article. Based on a popular image that had been shared 
 
 I've got sample projects from a few different semesters organized as their own folders (with PDFs for each ensemble I work with and the 'master page' that I do make for myself) and their accompanying Dorico projects. In the top folder, I have a template file, a 'blank' file (the easiest thing to work with before Dorico 4.0 added proper template support) and a file that just bunches every rhythm assessment to date into flows. I'll write an article some day about exporting individual flows from this project to make your own sets of rhythm assessments (if you were inclined to lift from mine). 
 
-Names aren't completely consistent. Still haven't settled on a scheme I love.
+Names aren't completely consistent. Still haven't settled on a scheme I love there.
+
+For the template file, what *makes* a file a template in Dorico is where it's stored. Assuming you're on Dorico 4, you need to paste that file in `~/Library/Application Support/Steinberg/Dorico 4/Project Templates/`. If there is a specific template folder you'd like to drop it in, you'll find it in here. Otherwise you can open the file as normal and save it as a template yourself (from the file menu). If you are struggling to find the aforementioned directory, [one of these](https://support.apple.com/guide/mac-help/go-directly-to-a-specific-folder-on-mac-mchlp1236/mac) [articles](https://support.native-instruments.com/hc/en-us/articles/360020012418-Accessing-the-Hidden-User-Library-macOS-) may help.
 
 ## Scale Sheets
 
@@ -63,7 +65,7 @@ Because of the nature of chromatic scales, there's only one Dorico project and t
 - [ ] Add in (along with writing an article) some of the other sheets I've made for 6th grade/scales. 
 - [ ] Cleanup
     + Adjusting layout indent
-        * [ ] Adjust tenor sax major scale sheet - [tenor file](hook://file/Lw8ud5Pij?p=U2NhbGUgU2hlZXRzL01ham9yIFNjYWxlcw==&n=07%20%2D%20Tenor%20Saxophone%20%2D%20Scale%20Sheet%2Epdf)
+        * [ ] Adjust tenor sax major scale sheet
         * [ ] Adjust the keyed pages of the alto and tenor thirds scales
 
 
