@@ -24,9 +24,11 @@ This one lives in TextExpander and winds up as an Obsidian note for my reference
 
 ## Templates for Emails
 
+## Lesson Log Snippet Group
+
+Two files in this folder are the respective CSV and HTML exports of the TextExpander snippet group I find speeds up entering information into lesson logs. For use in TextExpander itself, you can add it via [this link][snippetgroup]. I explain more about this snippet group and contextualize these exports with [this post][llsnippetpost]. 
 
 
-
-
-
+[snippetgroup]: https://app.textexpander.com/public/f0f5fae887a3d9de2388d74eaa5c6e56
 [postlink]: 
+[llsnippetpost]: 

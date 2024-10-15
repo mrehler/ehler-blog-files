@@ -1,8 +1,10 @@
 In this file are various automations (however basic) I've made that I can easily share
 
-These Alfred workflows aren't so useful that I'd share them on the [Alfred Gallery](https://alfred.app), because if they were, I'd fork them into their own repo.
+These Alfred workflows aren't so useful that I'd share them on the [Alfred Gallery](https://alfred.app), because if they were, I'd fork them into their own repo in hopes of getting them on there.
 
 ## Alfred Workflows
+
+
 
 ### ABFR File Action
 
@@ -10,13 +12,18 @@ Very simple, just makes a [file action][alfredfileaction] for [A Better Finder R
 
 ### Marked Paste Preview
 
-Quick way to get whatever's on your clipboard to preview in [Marked](https://marked2app.com). About as [simple](https://marked2app.com/help/URL_Handler.html#paste) as it gets.
+Quick way to get whatever's on your clipboard to preview in [Marked](https://marked2app.com). About as [simple](https://marked2app.com/help/URL_Handler.html#paste) as it gets, just a URL scheme.
 
 ### Rogue Amoeba Apps Forgotten
 
 Both the most complicated workflow and also, arguably, the dumbest or least useful.
 
 Doesn't include Airfoil. I use Airfoil, though.
+
+### Add to Play/MusicBox
+
+So this one actually is a [separate repo](https://github.com/mrehler/alfred-play-musicbox-workflow). Adds items to [Play](https://apps.apple.com/us/app/id1596506190) and [MusicBox](https://apps.apple.com/us/app/id1614730313) from Alfred.
+
 
 ## KM Macros
 
@@ -47,6 +54,8 @@ Beyond the ones I've made, these are the Alfred workflows I use (much more usefu
 - [Fantastical](https://github.com/robb/Fantastical-Alfred-Workflow)
 - [Rename Action](https://alfred.app/workflows/vitor/rename-action/)
 - [Shimmering Obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - requires a bit of set-up
+- [Slink](https://www.thoughtasylum.com/alfred/alfred_slink_for_searchlink/)
+    + For use with [Searchlink](https://www.searchlink.ai/manufacturing)
 - [Temporary Email](https://alfred.app/workflows/vitor/temporary-email)
 - [Upload File](https://alfred.app/workflows/vitor/upload-file/)
     + Doesn't get much use, but handy to have when needed. Same is true for Temporary Email
