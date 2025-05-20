@@ -1,0 +1,5 @@
+This is meant to be an index of prominent band pieces, often older ones, that lack measure numbers. To make rehearsal go more smoothly, I often ask my students to mark in measure numbers in pieces that either don't have enough rehearsal markers in the first place, or use rehearsal markers that aren't based on a measure number. The purpose of this is just to help others avoid duplicating that effort. I generally also ask students to mark the beginning of every line in their own part based off of the references I'm giving them in these cases.
+
+I may have different approaches for different files. If I ever try to unify them and you dislike a change, you should be able to go back in the Github commit history, but these are lightweight files to save from plaintext, just in case.
+
+In general, I list out every rehearsal marker with appropriate measure numbers, others I asked students to mark, and potentially some other references for the director.
